@@ -1,0 +1,20 @@
+-The program starts with the logo printed on top
+-Below the logo, the First person to print,name,description of the person like actor and last the country
+-The vs logo just below the first peron
+-The second person is print with the same attributes like the above
+
+-The 2 person printed above are famous personalities and the program compares their follwer count in ig
+
+-Compare person-A to person-B
+-choose - A
+-If A == B:
+        you get 1 score
+        then B becomes the new A
+-Elif A has more followers than B:
+-        you get 1 score
+-Elif B has more followers than A:
+-       you get 1 score
+        then B becomes the new A
+-Else:
+        score -1
+        break-game ends
