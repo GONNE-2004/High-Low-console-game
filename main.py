@@ -30,7 +30,7 @@ def compare_follower(user_guess, a_follower, b_follower):
 def attributes(person):
     """Returns the formated user charactersistics"""
     return f"{person["name"]}, {person["description"]}, from {person["country"]}"
-
+    # i had to create the person argument to act in order to acts as the name of the name dictionary inside the list
 
 
 def main():
